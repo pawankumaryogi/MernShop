@@ -1,0 +1,14 @@
+{
+  "name": "mernshop",
+  "version": "1.0.0",
+  "description": "this is a full stack web application",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "pawan kumar yogi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
